@@ -1,0 +1,33 @@
+.nar{
+    border-radius: 50%;
+}
+
+.heading{
+    color:7FFF00;
+}
+
+body{
+    background-color: FFF8DC;
+}
+
+.ret{
+    color: blue;
+}
+
+.footer
+{
+  
+   background-color: #66BFBF;  
+   /*50px-uptop,0 px-left and right,20px- at the bottom */
+   padding: 50px 10px 20px;  
+   text-align: center;
+}
+
+.copyright{
+    color:#eaf6f6 ;
+   
+}
+
+.ert{
+    color:#FFA07A;
+}
